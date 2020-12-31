@@ -3,138 +3,158 @@
     "color":"太空灰色",
     "price": 18900,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_gray.png"
 },
 {
     "id":"A002",
     "color":"銀色",
     "price": 18900,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_silver.png"
 },
 {
     "id":"A003",
     "color":"玫瑰金色",
     "price": 18900,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_rose.png"
 },
 {
     "id":"A004",
     "color":"綠色",
     "price": 18900,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_green.png"
 },
 {
     "id":"A005",
     "color":"天空藍色",
     "price": 18900,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_blue.png"
 },
 {
     "id":"B001",
     "color":"太空灰色",
     "price": 23900,
     "storage": "256G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_gray.png"
 },
 {
     "id":"B002",
     "color":"銀色",
     "price": 23900,
     "storage": "256G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_silver.png"
 },
 {
     "id":"B003",
     "color":"玫瑰金色",
     "price": 23900,
     "storage": "256G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_rose.png"
 },
 {
     "id":"B004",
     "color":"綠色",
     "price": 23900,
     "storage": "256G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_green.png"
 },
 {
     "id":"B005",
     "color":"天空藍色",
     "price": 23900,
     "storage": "256G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_blue.png"
 },
 {
     "id":"C001",
     "color":"太空灰色",
     "price": 23200,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_gray.png"
 },
 {
     "id":"C002",
     "color":"銀色",
     "price": 23200,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_silver.png"
 },
 {
     "id":"C003",
     "color":"玫瑰金色",
     "price": 23200,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_rose.png"
 },
 {
     "id":"C004",
     "color":"綠色",
     "price": 23200,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_green.png"
 },
 {
     "id":"C005",
     "color":"天空藍色",
     "price": 23200,
     "storage": "64G",
-    "network": "Wi-Fi"
+    "network": "Wi-Fi",
+    "image": "./iPad_Air_blue.png"
 },
 {
     "id":"D001",
     "color":"太空灰色",
     "price": 28200,
     "storage": "256G",
-    "network": "Cellular"
+    "network": "Cellular",
+    "image": "./iPad_Air_gray.png"
 },
 {
     "id":"D002",
     "color":"銀色",
     "price": 28200,
     "storage": "256G",
-    "network": "Cellular"
+    "network": "Cellular",
+    "image": "./iPad_Air_silver.png"
 },
 {
     "id":"D003",
     "color":"玫瑰金色",
     "price": 28200,
     "storage": "256G",
-    "network": "Cellular"
+    "network": "Cellular",
+    "image": "./iPad_Air_rose.png"
 },
 {
     "id":"D004",
     "color":"綠色",
     "price": 28200,
     "storage": "256G",
-    "network": "Cellular"
+    "network": "Cellular",
+    "image": "./iPad_Air_green.png"
 },
 {
     "id":"D005",
     "color":"天空藍色",
     "price": 28200,
     "storage": "256G",
-    "network": "Cellular"
+    "network": "Cellular",
+    "image": "./iPad_Air_blue.png"
 }]
